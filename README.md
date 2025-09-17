@@ -13,10 +13,10 @@ This is a frontend clone of the Amazon website built using HTML, CSS. It replica
 ## Screenshots
 
 ### 🖼️ Homepage Top Section
-![Screenshot 1](image (1).png)
+![Screenshot 1](image_1.png)
 
 ### 🖼️ Product Grid Section
-![Screenshot 2](image (2).png)
+![Screenshot 2](image_2.png)
 
 ### 🖼️ Footer Section
-![Screenshot 3](image (3).png)
+![Screenshot 3](image_3.png)
